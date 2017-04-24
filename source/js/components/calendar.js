@@ -9,16 +9,14 @@ export default class Calendar extends Component {
             <div>
                 yoho moi je suis the calendar
 
-                <div className="container">
-                    <div className="row seven-cols">
-                        {/*<div className="col-md-1">Col 1</div>*/}
-                        {/*<div className="col-md-1">Col 2</div>*/}
-                        {/*<div className="col-md-1">Col 3</div>*/}
-                        <div className="col-md-3">Col 4</div>
-                        <div className="col-md-3">Col 5</div>
-                        <div className="col-md-3">Col 6</div>
-                        <div className="col-md-3">Col 7</div>
-                    </div>
+                <div className="row seven-cols">
+                    <div className="bord col-md-1 midd">SUN <br/> 12 </div>
+                    <div className="bord  col-md-1 midd">MON <br/> 13</div>
+                    <div className="bord col-md-1 midd">TUE<br/> 14</div>
+                    <div className="bord col-md-1 midd">WED<br/> 15</div>
+                    <div className="bord col-md-1 midd">THU<br/> 16</div>
+                    <div className="bord col-md-1 midd">FRI<br/> 17</div>
+                    <div className="bord col-md-1 midd">SAT<br/> 18</div>
                 </div>
             </div>
 
