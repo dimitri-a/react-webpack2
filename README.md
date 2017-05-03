@@ -1,4 +1,4 @@
-# React and Redux, Webpack 2 boilerplate
+# React and Redux, Webpack 2 boilerplate aka calendar proto
 
 ## Table of contents
 * [What is this?](#user-content-what-is-this)
